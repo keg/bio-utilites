@@ -1,4 +1,4 @@
-Bio-utilites
+bio-utilites
 ==============
 
 Some bio utilities I did for a code test. Hopefully these can help others in the bio field work with their data.
