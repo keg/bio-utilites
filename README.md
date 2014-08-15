@@ -19,4 +19,13 @@ To run fasta:
 run "chmod +x fastq.sh", and then "./fastq.sh /path/to/my/data/file"
 ```
 
-##fasta.sh
+
+##chromosome.py
+A python script to lookup chromosome coordinates and match it's annotation from a second file. Outputs a file with the combined match. 
+
+To run chromosome.py:
+
+```
+Modify chromeosome.py to point to correct file paths.
+run "python chromosome.py"
+```
